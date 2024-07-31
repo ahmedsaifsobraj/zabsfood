@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "img": "https://img.freepik.com/free-photo/portion-african-chapati-bean-stew-garlic-lemons_181624-57135.jpg?t=st=1722257696~exp=1722261296~hmac=11905b34bdbdec6b1f591965a14f78b1232f8b8f7d90c4e1f51dc76a237b5828&w=1060",
+        "name": "Porota with bean vegitable",
+        "description": "Two porotas with unlimited vegitable",
+        "price": "100"
+        
+        
+    },
+    {
+        "id": 2,
+        "img": "https://img.freepik.com/free-photo/indian-tasty-roti-composition_23-2149073358.jpg?t=st=1722257940~exp=1722261540~hmac=068687147ce45abbd44ab3dbe63370e5f46d0da8a0a926e5e1592a5acbe6a460&w=900",
+        "name": "Ruti with mixed vegitable",
+        "description": "3 ata roti with unlimited vegitable",
+        "price": "80"
+    },
+    {
+        "id": 3,
+        "img": "https://img.freepik.com/free-photo/samsa-samosas-with-meat_658428-358.jpg?t=st=1722258031~exp=1722261631~hmac=e73deccb339b36e15a541778bf4eaf2678f87b449627f3acdea5cc8361fd0622&w=900",
+        "name": "Singara",
+        "description": "5 pieces of singara with tomato ketchup",
+        "price": "250"
+    },
+    {
+        "id": 4,
+        "img": "https://thumbs.dreamstime.com/b/beef-nihari-pakistani-curry-cuisine-nihari-pakistani-beef-curry-231772598.jpg",
+        "name": "Beef nihari",
+        "description": "Hot served with 2 porotas or roti",
+        "price": "300"
+    },
+    {
+        "id": 5,
+        "img": "https://t4.ftcdn.net/jpg/02/28/09/25/360_F_228092508_S3dXeA7kGNg6YKicaUBCP1nYlDXcQmcj.jpg",
+        "name": "Beef paya",
+        "description": "Hot served with 2 porotas or roti",
+        "price": "400"
+    },
+    {
+        "id": 6,
+        "img": "https://i.ytimg.com/vi/ZKwXA6aut3I/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA9UqJF6MY4opqsjVRsFqLlgBJmmw",
+        "name": "Chicken soup",
+        "description": "Hot served with 2 porotas or roti",
+        "price": "200"
+    }
+]

@@ -1,0 +1,5 @@
+.selected {
+    color: red; /* Change the text color to red */
+    font-weight: bold; /* Make the text bold for better visibility */
+    border-bottom: solid red;
+}
